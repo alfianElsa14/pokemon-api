@@ -55,6 +55,13 @@ _Response (201)_
 
 ```
 
+_Response (400 - Failed Post pokemon)_
+```
+{
+    "message": "Pokemon gagal di tangkap, coba lagi!"
+}
+```
+
 _Response (404 - Validation Error)_
 ```
 {
