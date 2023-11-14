@@ -1,0 +1,23 @@
+{
+    "myPokemons": [
+        {
+            "id": "86c1b87f-bb94-4de8-be6d-5efe0867fcf1",
+            "name": "bulbasaur-2",
+            "renameNum": 4
+        },
+        {
+            "id": "48d2e751-7d4c-41e9-a001-3237059da0cf",
+            "name": "chalizard-233",
+            "renameNum": 14
+        },
+        {
+            "id": "94060332-784c-40f7-9e46-7cce061b5852",
+            "name": "chaliz-89",
+            "renameNum": 12
+        },
+        {
+            "id": "33d56b1d-f87e-4a3f-a103-b8f563f00651",
+            "name": "bulbasaur"
+        }
+    ]
+}
